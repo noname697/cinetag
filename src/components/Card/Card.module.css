@@ -8,6 +8,12 @@
     justify-content : space-between;
 }
 
+.link {
+    text-decoration: none;
+    color          : var(--preto);
+    text-align     : left;
+}
+
 .capa {
     width: 100%;
 
